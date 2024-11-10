@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\bin\Debug\net8.0\ejercicio 6 de gama.exe
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\bin\Debug\net8.0\ejercicio 6 de gama.deps.json
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\bin\Debug\net8.0\ejercicio 6 de gama.runtimeconfig.json
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\bin\Debug\net8.0\ejercicio 6 de gama.dll
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\bin\Debug\net8.0\ejercicio 6 de gama.pdb
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ejercicio 6 de gama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ejercicio 6 de gama.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ejercicio 6 de gama.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ejercicio 6 de gama.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ejercicio 6 de gama.dll
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\refint\ejercicio 6 de gama.dll
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ejercicio 6 de gama.pdb
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ejercicio 6 de gama.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ejercicio 6 de gama\ejercicio 6 de gama\obj\Debug\net8.0\ref\ejercicio 6 de gama.dll
