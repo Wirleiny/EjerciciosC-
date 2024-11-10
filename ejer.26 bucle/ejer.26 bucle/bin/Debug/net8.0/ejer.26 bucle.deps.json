@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ejer.26 bucle/1.0.0": {
+        "runtime": {
+          "ejer.26 bucle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer.26 bucle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
