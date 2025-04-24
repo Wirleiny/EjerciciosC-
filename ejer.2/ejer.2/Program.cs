@@ -1,4 +1,6 @@
-﻿using System;
+//Este programa calcula el sueldo neto de un empleado, restando los descuentos de AFP y SFS al sueldo bruto según el pago por hora y horas trabajadas.
+
+using System;
 
 class Program
 {
