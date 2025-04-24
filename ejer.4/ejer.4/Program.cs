@@ -1,4 +1,5 @@
-﻿using System;
+//Este programa pide cinco números al usuario, calcula su suma y muestra el promedio de esos cinco valores.
+using System;
 
 class Program
 {
