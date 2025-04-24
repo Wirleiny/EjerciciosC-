@@ -1,4 +1,7 @@
-﻿using System.ComponentModel.Design;
+/* Este programa verifica la edad y el sexo de una persona para decidir su acceso a una discoteca: si es mayor de 18 
+y hembra, entra gratis; si es varón, entra pagando; y si es menor de edad, no puede entrar.*/
+    
+using System.ComponentModel.Design;
 
 namespace La_discoteca_ejer8
 {
