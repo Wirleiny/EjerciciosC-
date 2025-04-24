@@ -1,4 +1,4 @@
-﻿
+// Este programa calcula el importe de una compra, aplicando un 10% de descuento y un 18% de ITBIS, y luego muestra el total a pagar.﻿
     using System;
 
     namespace ejercicio_6_de_gama
