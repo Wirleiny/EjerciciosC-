@@ -1,4 +1,5 @@
-﻿using System;
+// Este programa calcula el importe total multiplicando la cantidad de artículos por su precio unitario.
+using System;
 
 class Program
 {
