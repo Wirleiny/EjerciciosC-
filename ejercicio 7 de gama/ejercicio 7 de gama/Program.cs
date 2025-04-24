@@ -1,4 +1,5 @@
-﻿namespace ejercicio_7_de_gama
+// Este programa calcula el nuevo sueldo de un empleado aplicando un aumento del 15% al sueldo anterior.
+namespace ejercicio_7_de_gama
 { 
     internal class Program
     {
