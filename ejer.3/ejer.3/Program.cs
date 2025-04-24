@@ -1,4 +1,6 @@
-﻿using System;
+//Este programa solicita tres números enteros y muestra el resultado de sumarlos, restarlos, multiplicarlos y dividir el primero entre los otros dos.
+
+using System;
 
 class Program
 {
