@@ -1,4 +1,6 @@
-﻿using System;
+//Este programa pide dos números enteros al usuario y muestra su suma, resta, multiplicación y división.
+
+using System;
 
 class Program
 {
